@@ -1,0 +1,54 @@
+{
+  "createscreen": [
+    {
+      "width": 64,
+      "height": 48,
+      "color": 1,
+      "grayscale": 1,
+      "cardtype": 0,
+      "addprogram1": [
+        {
+          "bordereffect": 0,
+          "borderspeed": 0,
+          "buffersize": 0,
+          "textarea1": [
+            {
+              "text_name": "English",
+              "textcolor": 255,
+              "backgroupcolor": 0,
+              "style": 4,
+              "fontheight": 8,
+              "showeffect": 1,
+              "showspeed": 10,
+              "cleartype": 201,
+              "n_x": 0,
+              "n_y": 0,
+              "width": 31,
+              "height": 16,
+              "staytime": 3,
+              "buffersize": 0
+            }
+          ],
+          "textarea2": [
+            {
+              "text_name": "ગુજરાતી",
+              "textcolor": 255,
+              "backgroupcolor": 0,
+              "style": 4,
+              "fontheight": 16,
+              "showeffect": 1,
+              "showspeed": 10,
+              "cleartype": 201,
+              "n_x": 16,
+              "n_y": 16,
+              "width": 31,
+              "height": 16,
+              "staytime": 3,
+              "buffersize": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
